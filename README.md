@@ -7,6 +7,8 @@ Helix is a command-line tool that issues HTTP requests, then parses, filters, an
 - Outputs headers in plain text, colored text, or JSON format.
 - Displays the HTTP status code of the response.
 
+## Example 
+To see an example of the color-coded output, check out the [screenshot in the images folder](https://github.com/gia-lexa/helix/blob/main/images/Helix.png). 
 ## Installation
 ###Build from Source
 Make sure you have Go installed.
