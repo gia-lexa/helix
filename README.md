@@ -10,7 +10,7 @@ Helix is a command-line tool that issues HTTP requests, then parses, filters, an
 ## Example 
 To see an example of the color-coded output, check out the [screenshot in the images folder](https://github.com/gia-lexa/helix/blob/main/images/Helix.png). 
 ## Installation
-###Build from Source
+### Build from Source
 Make sure you have Go installed.
 
 1. Clone the repository:
