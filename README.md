@@ -21,15 +21,4 @@ Show only specified headers using the -filter flag:
 helix -filter cache-control,content-type https://www.example.com
 ```
 
-### JSON Output
-Output the headers in JSON format:
-```
-helix -json https://www.example.com
-```
-
-### Plain Text Output
-Display headers without any ANSI color codes:
-```
-helix -plain https://www.example.com
-```
 
