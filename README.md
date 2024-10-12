@@ -15,7 +15,7 @@ Make sure you have Go installed.
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/helix.git
+git clone https://github.com/gia-lexa/helix.git
 cd helix
 ```
 
