@@ -5,6 +5,13 @@ The purpose of this project was to revisit my GoLang skills by practicing buildi
 
 This is a work in progress—the next step is to add tests. 
 
+## Features
+- Displays all response headers with colored keys by default.
+- Supports filtering headers by a comma-separated list.
+- Outputs headers in plain text, colored text, or JSON format.
+- Displays the HTTP status code of the response.
+
+## Example Commands
 Display all headers for a given URL:
 ```
 helix https://www.example.com
@@ -34,3 +41,4 @@ To see all available flags and options:
 ```
 helix -help
 ```
+
