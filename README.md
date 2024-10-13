@@ -3,8 +3,6 @@ Helix is a command-line tool that issues HTTP requests, then parses, filters, an
 
 The purpose of this project was to revisit my GoLang skills by practicing building a small example app.
 
-## Examples
-
 Display all headers for a given URL:
 ```
 helix https://www.example.com
