@@ -1,9 +1,9 @@
 # Helix
-Helix is a command-line tool that issues HTTP requests, then parses, filters, and surfaces relevant HTTP response headers. 
+Helix is a command-line tool for fetching and displaying HTTP response headers from a given URL. It allows you to filter specific headers and display the output in various formats, including plain text and JSON, making it useful for developers, testers, and network engineers.
 
 The purpose of this project was to revisit my GoLang skills by practicing building a small example app.
 
-This is a work in progress—the next step is to add tests. 
+This is a work in progress, the next step being the addition of tests.
 
 ## Features
 - Displays all response headers with colored keys by default.
