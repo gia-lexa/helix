@@ -11,7 +11,7 @@ This is a work in progress—the next step is to add tests.
 - Outputs headers in plain text, colored text, or JSON format.
 - Displays the HTTP status code of the response.
 
-## Example Commands
+## Commands
 Display all headers for a given URL:
 ```
 helix https://www.example.com
